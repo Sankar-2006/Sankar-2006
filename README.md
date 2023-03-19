@@ -1,24 +1,27 @@
-<h1 align="center">Hi 👋, I'm Uma SANKAR</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# 💫 About Me:
+🌱 I’m currently learning Front-End Web Development
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sankar-2006&label=Profile%20views&color=0e75b6&style=flat" alt="sankar-2006" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sankar-2006" alt="sankar-2006" /></a> </p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sankar#5037) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sankar.2006) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/uma-sankar-18105924b) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@umasankarg2006) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sankar_2006) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Umasankar-G-7) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/sankar-2006) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21431130) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Sankar14411087) 
 
-- 🌱 I’m currently learning **Frontend web development**
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sankar-2006&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sankar-2006&theme=midnight-purple&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sankar-2006&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-- 📫 How to reach me **umasankarg2006@gmail.com**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sankar-2006&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/sankar.2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sankar.2006" height="30" width="40" /></a>
-</p>
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=Sankar14411087)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sankar-2006&show_icons=true&locale=en&layout=compact" alt="sankar-2006" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=sankar-2006&icon=7&color=11)](https://visitcount.itsvg.in)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sankar-2006&show_icons=true&locale=en" alt="sankar-2006" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sankar-2006&" alt="sankar-2006" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
